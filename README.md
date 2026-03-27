@@ -52,6 +52,10 @@ Encourages data-driven investing instead of tip-based decisions
 
 Integration with ET Markets live data
 
+## Alignment with ET Problem Statement
+
+This prototype implements Opportunity Radar and Chart Pattern Intelligence modules by detecting support/resistance levels, breakout signals, and volume anomalies across NSE stocks. The system converts market data into actionable investor signals aligned with ET Markets intelligent signal discovery goals.
+
 Real-time alert notifications
 
 Portfolio-aware signal detection
