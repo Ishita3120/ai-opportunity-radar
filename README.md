@@ -1,5 +1,7 @@
 # AI Opportunity Radar for Indian Investors
 
+This prototype implements Opportunity Radar and Chart Pattern Intelligence modules aligned with the ET Markets AI for the Indian Investor problem statement.
+
 ## Problem Statement
 
 Indian retail investors often rely on tips rather than structured technical signals. This leads to missed opportunities and inefficient decision-making.
