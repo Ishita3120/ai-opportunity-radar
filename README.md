@@ -1,35 +1,47 @@
 # AI Opportunity Radar for Indian Investors
 
-Problem:
+## Problem Statement
 
-Indian retail investors often rely on tips instead of structured signals.
+Indian retail investors often rely on tips rather than structured technical signals. This leads to missed opportunities and inefficient decision-making.
 
-Solution:
+## Solution
 
-This project builds an AI-powered opportunity radar system that detects breakout signals, support/resistance levels, and unusual trading volume across NSE stocks.
+This project builds an AI-powered Opportunity Radar that scans NSE stocks and detects support levels, resistance levels, breakout signals, reversal zones, and unusual volume activity.
 
-Features:
+## Features
 
-Multi-stock scanning
-Support detection
-Resistance detection
+Multi-stock scanning engine
+
+Support and resistance detection
+
 Breakout signal identification
-Volume spike detection
-AI explanation engine
-Price trend visualization
 
-Tech Stack:
+Volume spike detection
+
+Plain-English explanation engine
+
+Stock trend visualization using charts
+
+## Technology Stack
 
 Python
+
 Google Colab
+
 yfinance API
+
 pandas
+
 matplotlib
 
-Impact:
+## Architecture Workflow
 
-Transforms raw market data into actionable signals
+User Input → Market Data Fetch Engine → Technical Indicator Analyzer → Signal Detection Engine → Explanation Engine → Dashboard Output
 
-Helps investors identify opportunities earlier
+## Impact
 
-Supports smarter retail investing decisions
+Transforms raw stock market data into actionable investment signals
+
+Helps retail investors identify opportunities faster
+
+Encourages data-driven investing instead of tip-based decisions
