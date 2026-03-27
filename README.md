@@ -47,3 +47,13 @@ Transforms raw stock market data into actionable investment signals
 Helps retail investors identify opportunities faster
 
 Encourages data-driven investing instead of tip-based decisions
+
+## Future Enhancements
+
+Integration with ET Markets live data
+
+Real-time alert notifications
+
+Portfolio-aware signal detection
+
+LLM-based personalized investment explanations
